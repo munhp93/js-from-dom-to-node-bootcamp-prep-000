@@ -2,4 +2,5 @@
 console.log('Hello World!');
 nodejs;
 cd labs
+Uint8ClampedArray
 
